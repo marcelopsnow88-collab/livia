@@ -27,3 +27,6 @@ npm-debug.log*
 
 # Vercel
 .vercel/
+
+# Temp push artifacts
+.github-push*.json
